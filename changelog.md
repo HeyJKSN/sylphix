@@ -1,15 +1,10 @@
-# Changelog
+# Sylphix Changelog
 
-All notable changes to this project will be documented in this file.
+This changelog contains a list of changes and updates made to the Sylphix Browser and will be updated when a new version has been released.
 
-## [Unreleased]
+## Version 0.01.1 - 18.03.2023
 
-- Added feature X
-- Fixed bug Y
-
-## [1.0.0] - 2022-01-01
-
-- Released version 1.0.0
-- Added feature A
-- Improved performance
-
+- Initial release of Sylphix Browser.
+- Created basic components (Search, Index, Queue and Status)
+- [Launched the Desktop](https://web.truly.tk/install)
+- Fixed some queue bugs
